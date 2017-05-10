@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="grupoVaru_FrenteClaudia" size="100.000000 57.029701" />
+    <ImageTarget name="grupoVaru_FrenteFrancy" size="100.000000 57.029701" />
+    <ImageTarget name="grupoVaru_FrenteTarjeta" size="100.000000 55.888222" />
+    <ImageTarget name="SM_ResponsabilidadSocialEmpresarial" size="100.000000 133.359497" />
+    <ImageTarget name="SM_Servicios" size="100.000000 135.373611" />
+    <ImageTarget name="SM_Valores" size="100.000000 133.045532" />
+    <ImageTarget name="SM_Portada" size="100.000000 133.960785" />
+  </Tracking>
+</QCARConfig>
